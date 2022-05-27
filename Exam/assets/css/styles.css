@@ -1,0 +1,1077 @@
+/**/
+
+body {
+    font-family: 'Lato', sans-serif;
+    /*background: linear-gradient(180deg, white 74%, #F8F8F8 50%);*/
+}
+
+.pagewidth {
+	max-width: 1335px;
+}
+
+.fw-800 {
+	font-weight: 800;
+}
+
+
+.fw-600 {
+	font-weight: 600;
+}
+
+.blue35 {
+    font-size: 34px;
+    line-height: 42px;
+    color: #2C77AE;
+}
+
+/*HEADER*/
+
+.discover img {
+    background: white;
+    padding: 20px;
+    border-radius: 100%;
+    width: 300px;
+    display: none;
+    margin: 0 auto;
+}
+
+.question {
+    width: 100%;
+    background: #2C77AE;
+    padding: 17px 10px;
+}
+
+.question p {
+    color: white;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+
+.discover {
+    max-width: 100%;
+    background: #cae5f3;
+    margin: auto;
+}
+
+.number1 {
+    padding-top: 20px;
+    margin: 0 auto;
+    background: url(../images/woman1.jpg) no-repeat left bottom;
+    background-size: 650px;
+    max-width: 1630px;
+}
+
+.number1 h2 {
+    font-size: 35px;
+	line-height: 42px;
+    color: #2C77AE;
+    text-align: center;
+	padding-top: 145px;
+}
+
+.number1 h1 {
+    font-size: 75px;
+    line-height: 85px;
+    color: #2C77AE;
+    text-align: center;
+    max-width: 815px;
+    padding: 20px 0 40px 0;
+    margin: 0 auto;
+}
+
+.number1 h3 {
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    color: #2C77AE;
+    max-width: 727px;
+    border-top: 8px solid #2C77AE;
+    padding: 20px 0px 145px 0px;
+    margin: 0 auto;
+}
+/*HEADER END*/
+
+/*UNHEALTHY*/
+
+.main {
+    max-width: 1335px;
+    padding: 40px 0;
+    margin: auto;
+}
+
+.unhealthy {
+    background: transparent linear-gradient(180deg, #F1F9FF 0%, #DCF0FF 100%) 0% 0% no-repeat padding-box;
+    padding: 40px 80px;
+    margin: 0 auto;
+}
+
+.unhealthy p {
+    font-size: 27px;
+    line-height: 33px;
+}
+
+.unhealthy img {
+    float: right;
+    width: 440px;
+    margin-bottom: 12px;
+    margin-left: 10px;
+}
+
+/*UNHEALTHY END*/
+
+/*WHAT I DO*/
+
+.to-do {
+    background: #2C77AE;
+    margin: 0 auto;
+    padding: 45px 20px;
+}
+
+.to-do p {
+    color: white;
+    font-size: 40px;
+    line-height: 48px;
+    max-width: 1147px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.whatido {
+   background: transparent linear-gradient(180deg, #F1F9FF 0%, #DCF0FF 100%) 0% 0% no-repeat padding-box;
+    margin: 0 auto;
+}
+
+.whatido-bg {
+    background: url(../images/woman4.png) no-repeat right center;
+    padding: 30px 80px;
+    background-size: cover;
+}
+
+.whatido p {
+    font-size: 27px;
+    line-height: 33px;
+    max-width: 740px;
+}
+
+.choirs span {
+    font-size: 27px;
+    line-height: 70px;
+    color: #2C77AE;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid #707070;
+    border-radius: 30px;
+	padding: 20px 30px;
+}
+
+/*WHATIDO END*/
+
+
+/*STAYATHOME*/
+
+.stay-at-home {
+    margin: 0 auto;
+    background: #F8F8F8;
+    padding: 40px 80px;
+}
+
+.stay-at-home img {
+    float: right;
+    background: #DCF0FF;
+    padding: 20px;
+    border-radius: 100%;
+    margin-bottom: 58px;
+    margin-left: 20px;
+    margin-right: -40px;
+}
+
+.stay-at-home p {
+    font-size: 27px;
+    line-height: 33px;
+}
+
+/*STAYATHOME END*/
+
+/*NOEXCUSE*/
+
+.nebg {
+    background: white;
+    margin: 0 auto;
+}
+
+.no-excuse {
+    padding: 40px 80px;
+    background: url(../images/woman6.png) no-repeat top right;
+}
+
+.no-excuse p {
+    font-size: 27px;
+    line-height: 31px;
+    max-width: 685px;
+}
+
+/*NOEXCUSE END*/
+
+/*OPTIONS*/
+
+.options {
+    max-width: 1175px;
+    margin: 0 auto;
+	padding: 15px;
+}
+
+.options img {
+    background: white;
+    padding: 20px;
+    border-radius: 100%;
+    margin: 30px;
+}
+
+.options p {
+    font-size: 27px;
+    line-height: 33px;
+    color: white;
+    max-width: 725px;
+}
+
+.white35 {
+    font-size: 35px;
+    line-height: 44px;
+    font-weight: bold;
+}
+
+.option1 {
+    display: flex;
+    background: #2C77AE;
+    align-items: center;
+	margin: 20px 0;
+}
+
+.option2 {
+    display: flex;
+    background: #85B7DC;
+    align-items: center;
+	margin: 20px 0;
+}
+
+.option3 {
+    display: flex;
+    background: #2C77AE;
+    align-items: center;
+	margin: 20px 0;
+}
+
+/*OPTIONS END*/
+
+/*GLAD*/
+
+.glad {
+    padding: 40px 80px;
+    background: url(../images/womanfull.png) no-repeat right;
+    background-size: contain;
+}
+
+.glad p {
+    font-size: 27px;
+    line-height: 33px;
+    max-width: 760px;
+}
+
+
+.glad img {
+    max-width: 300px;
+    display: none;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+	
+/*GLAD END*/
+
+/*KEEP READING*/
+.blue40 {
+	font-size: 40px;
+	line-height: 48px;
+	color: #2C77AE;
+	text-align: center;
+}
+
+.keep-reading {
+    padding: 50px 0;
+}
+
+.info {
+	
+}
+
+.infoitems {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item1 {
+	background-image: url(../images/mask.png);
+	height: 528px;
+}
+
+.info1 {
+	background: transparent linear-gradient(180deg, #2C77AE00 0%, #2C77AE 100%) 0% 0% no-repeat padding-box;
+	max-width: 420px;
+	height: 528px;
+}
+
+.info2 {
+	background: transparent linear-gradient(180deg, #2C77AE00 0%, #2C77AE 100%) 0% 0% no-repeat padding-box;
+	max-width: 420px;
+    height: 528px;
+}
+
+.info3 {
+	background: transparent linear-gradient(180deg, #2C77AE00 0%, #2C77AE 100%) 0% 0% no-repeat padding-box;
+	max-width: 420px;
+    height: 528px;
+}
+
+.info1 p {
+    font-size: 27px;
+    line-height: 33px;
+    color: white;
+    padding: 10px 20px 0 20px;
+}
+
+
+.item2 {
+	background-image: url(../images/eat.png);
+    height: 508px;
+}
+
+
+.item3 {
+	background-image: url(../images/weight.png);
+	 height: 508px;
+}
+
+.info2 p {
+    font-size: 27px;
+    line-height: 33px;
+    color: white;
+    padding: 30px 30px 0 30px;
+}
+
+.info3 p {
+    font-size: 27px;
+    line-height: 33px;
+    color: white;
+    padding: 10px 20px 0 20px;
+}
+
+.infoitems h2 {
+    border-bottom: 4px solid white;
+    max-width: 95px;
+    padding: 310px 0 0 20px;
+    margin-left: 20px;
+}
+
+.info2 h2 {
+    padding-top: 340px;
+}
+
+.info3 h2 {
+    padding-top: 290px;
+}
+
+p.infolast {
+    font-size: 27px;
+    line-height: 33px;
+    padding: 20px 0px 20px 80px;
+}
+
+/*KEEP READING END*/
+
+
+/*DOCTOR*/
+
+.beat {
+    background: #2C77AE;
+    padding: 45px 80px;
+}
+
+.beat p {
+    color: white;
+    font-size: 40px;
+    line-height: 48px;
+    max-width: 745px;
+}
+
+.doc {
+    padding: 30px 80px;
+}
+
+.doc p {
+    font-size: 27px;
+    line-height: 33px;
+    max-width: 1070px;
+}
+
+.doc img {
+    float: right;
+    margin-right: -80px;
+    margin-left: 30px;
+}
+
+/*DOCTOR END*/
+
+.finalbg {
+    background: #F8F8F8;
+    margin-top: -7373px;
+    padding-bottom: 4000px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*RESPONSIVE*/
+
+@media only screen and (min-width: 1321px) {
+	
+.container {
+	max-width: 100%;
+}
+
+}
+	
+
+@media only screen and (max-width: 1320px) {
+
+.to-do p {
+    font-size: 30px;
+}
+
+.glad p {
+    font-size: 27px;
+    line-height: 33px;
+    max-width: 590px;
+}
+
+.no-excuse p {
+    font-size: 27px;
+    line-height: 31px;
+    max-width: 465px;
+}
+
+
+.item1 {
+    background-repeat: no-repeat;
+    margin-right: 20px;
+}
+
+.item2 {
+    background-repeat: no-repeat;
+    margin-right: 20px;
+}
+
+
+.item3 {
+    background-repeat: no-repeat;
+}
+
+.infoitems p {
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.finalbg {
+    background: #F8F8F8;
+    margin-top: -7853px;
+    padding-bottom: 4270px;
+}
+
+}
+
+@media only screen and (max-width: 1450px) {
+	
+.number1 {
+    background-size: 540px;
+}
+
+.number1 h2 {
+    padding-top: 53px;
+}
+
+.number1 h3 {
+    padding: 20px 0px 53px 0px;
+}
+
+.number1 {
+    background-size: 500px;
+}
+
+}
+	
+@media only screen and (max-width: 1199px) {
+
+.number1 h1 {
+    font-size: 50px;
+    line-height: 65px;
+}
+
+.number1 {
+    background-size: 410px;
+}
+
+.whatido-bg {
+    background-size: 700px;
+    background-position: top right;
+}
+
+p.sothat {
+    max-width: 500px;
+}
+
+.stay-at-home img {
+    width: 300px;
+}
+
+.stay-at-home p {
+    font-size: 25px;
+    line-height: 31px;
+}
+
+.no-excuse {
+    padding: 40px 60px;
+    background-image: url(../images/woman6.png);
+    background-position: top;
+    background-position-x: 30px;
+}
+
+.no-excuse p {
+    max-width: 435px;
+}
+
+.options p {
+    font-size: 24px;
+    line-height: 30px;
+    max-width: 500px;
+}
+
+.glad p {
+    font-size: 27px;
+    line-height: 33px;
+    max-width: 430px;
+}
+
+.option1 {
+    display: flex;
+    background: #2C77AE;
+    align-items: center;
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+.glad {
+    padding: 40px 80px;
+    background: url(../images/womanfull.png) no-repeat right;
+}
+
+.finalbg {
+    background: #F8F8F8;
+    margin-top: -8734px;
+    padding-bottom: 4720px;
+}
+
+}
+
+@media only screen and (max-width: 991px) {
+	
+.number1 {
+    background-size: 350px;
+}
+
+.number1 h3 {
+    font-size: 20px;
+}
+
+.number1 h1 {
+    font-size: 30px;
+    line-height: 45px;
+}
+
+.number1 h2 {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.question p {
+    font-size: 25px;
+	line-height: 30px;
+}
+
+.number1 {
+    background-size: 304px;
+}
+
+.unhealthy img {
+    width: 100%;
+    margin: auto;
+    display: block;
+}
+
+.to-do p {
+    font-size: 22px;
+}
+
+.choirs span {
+    font-size: 21px;
+}
+
+.whatido-bg {
+    padding: 30px 30px;
+}
+
+.whatido p {
+    font-size: 24px;
+    line-height: 31px;
+}
+.blue35 {
+    font-size: 30px;
+    line-height: 37px;
+}
+
+.whatido p {
+    font-size: 25px;
+    line-height: 31px;
+}
+
+.stay-at-home img {
+    float: none;
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+}
+
+.stay-at-home {
+    margin: 0 auto;
+    background: #F8F8F8;
+    padding: 40px 10px;
+}
+
+.no-excuse {
+    background-size: 450px;
+    background-position: top right;
+    background: none;
+}
+
+.no-excuse p {
+    margin: 0 auto;
+    max-width: 580px;
+}
+
+.option1 {
+    display: block;
+    text-align: center;
+	padding: 30px 20px;
+}
+
+
+.option2 {
+    display: block;
+    text-align: center;
+	padding: 30px 20px;
+}
+
+.option3 {
+    display: block;
+    text-align: center;
+	padding: 30px 20px;
+}
+
+.options p {
+    margin: auto;
+    padding: 20px;
+}
+
+.options img {
+    margin-top: 30px;
+}
+
+.glad {
+    padding: 40px 80px;
+    background: none;
+}
+
+.glad img {
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.glad p {
+    font-size: 25px;
+    line-height: 30px;
+    max-width: 550px;
+}
+
+.glad {
+    padding: 40px 50px;
+}
+
+.infoitems {
+    display: block;
+    justify-content: space-between;
+}
+
+.item1 {
+    margin: 20px 0;
+    background-size: cover;
+}
+
+.info1 {
+    max-width: none;
+}
+
+.item2 {
+    margin: 20px 0;
+    background-size: cover;
+}
+
+.info2 {
+    max-width: none;
+}
+
+.item3 {
+    margin: 40px 0;
+    background-size: cover;
+}
+
+.info3 {
+    max-width: none;
+}
+
+.infoitems {
+    display: block;
+    justify-content: space-between;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.infoitems h2 {
+    padding: 349px 0 0 20px;
+}
+
+.info2 h2 {
+    padding-top: 390px;
+}
+
+p.infolast {
+    font-size: 24px;
+    line-height: 28px;
+	padding: 20px 0px;
+    margin: auto;
+}
+
+.doc {
+	padding: 30px 0px;
+}
+
+.doc img {
+    float: none;
+    display: block;
+    width: 300px;
+    margin: 20px auto;
+}
+
+.finalbg {
+    background: #F8F8F8;
+    margin-top: -12250px;
+    padding-bottom: 6560px;
+}
+
+.whatido p {
+    max-width: 400px;
+}
+
+.options img {
+    padding: 10px;
+}
+
+}
+
+@media only screen and (max-width: 767px) {
+	
+.question p {
+    max-width: 500px;
+    margin: 0 auto;
+}
+	
+.number1 {
+    background: none;
+}
+
+.discover img {
+    display: block;
+}
+
+.number1 h2 {
+    padding-top: 20px;
+}
+
+.number1 h3 {
+    padding-bottom: 30px;
+}
+
+.main {
+    padding: 20px 0;
+}
+
+.to-do p {
+    font-size: 25px;
+    text-align: center;
+    line-height: 32px;
+}
+
+.unhealthy p {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.unhealthy {
+    padding: 30px 30px;
+}
+
+.choirs span {
+    display: block;
+    font-size: 22px;
+    text-align: center;
+    margin: 20px 0;
+    line-height: 30px;
+}
+
+.choirs br {
+    display: none;
+}
+
+.blue35 {
+    font-size: 27px;
+}
+
+.whatido p {
+    font-size: 25px;
+}
+
+.stay-at-home {
+    padding: 20px 30px 20px 30px;
+}
+
+.stay-at-home img {
+    float: none;
+    display: block;
+}
+
+.whatido-bg {
+    background-size: 440px;
+}
+
+p.sothat {
+    max-width: 320px;
+}
+
+.glad p {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.infoitems {
+    padding: 0 0px;
+}
+
+.item1 {
+    background-size: cover;
+}
+
+.info1 {
+    max-width: none;
+}
+
+.item2 {
+    background-size: cover;
+}
+
+.item3 {
+    background-size: cover;
+}
+
+.info3 {
+    max-width: none;
+}
+
+.info2 {
+    max-width: none;
+}
+
+.infoitems h2 {
+    padding: 350px 0 0 20px;
+}
+
+.beat p {
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.beat {
+    background: #2C77AE;
+    padding: 25px 40px;
+}
+
+.doc p {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.finalbg {
+    background: #F8F8F8;
+    margin-top: -12130px;
+    padding-bottom: 6200px;
+}
+
+}
+
+@media only screen and (max-width: 575px) {
+
+.whatido-bg {
+    background-size: 0;
+}
+
+p.sothat {
+    max-width: 500px;
+    margin: auto;
+}
+
+.no-excuse {
+    background: none;
+}
+
+.no-excuse p {
+    max-width: 420px;
+}
+
+.item1 {
+    background-position-y: 0px;
+}
+
+.item2 {
+    background-position-y: 0px;
+}
+
+.item3 {
+    background-position-y: 0px;
+}
+
+.beat {
+    padding: 15px 23px;
+}
+
+.beat p {
+    font-size: 28px;
+    line-height: 35px;
+}
+
+}
+
+@media only screen and (max-width: 470px) {
+	
+.choirs span {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px;
+}
+
+.whatido p {
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.stay-at-home img {
+    padding: 10px;
+}
+
+.no-excuse p {
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.no-excuse {
+    padding: 20px 30px;
+}
+
+.options p {
+    font-size: 22px;
+    line-height: 30px;
+    max-width: 500px;
+}
+
+.white35 {
+    font-size: 30px;
+}
+
+.stay-at-home span {
+    font-size: 24px;
+}
+
+.options img {
+    width: 70%;
+}
+
+.glad p {
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.options p {
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.infoitems h2 {
+    padding: 320px 0 0 20px;
+}
+
+.finalbg {
+    background: #F8F8F8;
+    margin-top: -11770px;
+    padding-bottom: 6200px;
+}
+
+.blue40 {
+    font-size: 35px;
+    line-height: 43px;
+    color: #2C77AE;
+    text-align: center;
+}
+
+}
+
+@media only screen and (max-width: 375px) {
+	
+.glad p {
+    font-size: 20px;
+    line-height: 24px;
+}
+	
+}
